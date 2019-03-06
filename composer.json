@@ -1,0 +1,15 @@
+{
+  "name": "codexten/php-india-states",
+  "type": "php-extension",
+  "description": "php indian states array",
+  "autoload": {
+    "psr-4": {
+      "codexten\\india\\states\\": "src/widgets"
+    }
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.0.x-dev"
+    }
+  }
+}
