@@ -4,7 +4,7 @@
   "description": "php indian states array",
   "autoload": {
     "psr-4": {
-      "codexten\\india\\states\\": "src/widgets"
+      "codexten\\india\\states\\": "src"
     }
   },
   "extra": {
