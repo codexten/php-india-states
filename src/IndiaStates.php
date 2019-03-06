@@ -6,7 +6,7 @@
  * Time: 2:37 PM
  */
 
-namespace codexten\php\india\states;
+namespace codexten\india\states;
 
 
 class IndiaStates
